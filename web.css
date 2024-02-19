@@ -1,4 +1,15 @@
 body {
   background-color: powderblue;
   text-align: center;
+  <style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+body {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
 }
